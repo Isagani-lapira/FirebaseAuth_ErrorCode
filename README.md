@@ -1,6 +1,6 @@
 # FirebaseAuth_ErrorCode
 
-This are the complete error code that throw by Firebase Authentication
+This is the complete error code returned by Firebase Authentication.
 ```json
 "error_code":{
     "auth/app-deleted": "The database was not found",
