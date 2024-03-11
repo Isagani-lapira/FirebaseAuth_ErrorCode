@@ -1,8 +1,8 @@
 # FirebaseAuth_ErrorCode
 
-
-
-{
+This are the complete error code that throw by Firebase Authentication
+```json
+"error_code":{
     "auth/app-deleted": "The database was not found",
     "auth/expired-action-code": "The action code or link has expired",
     "auth/invalid-action-code": "The action code is invalid. This can happen if the code is malformed or has already been used",
